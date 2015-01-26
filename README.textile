@@ -1,0 +1,16 @@
+This a simple, not configurable helper bar for hunter.
+
+It displays a focus bar with a focus gain prediction.
+
+It also displays a spell forecast for single target rotation. The rotations are freely inspired from "IcyVeins":http://www.icy-veins.com/ and "WarcraftHunterUnion":http://www.warcrafthuntersunion.com/.
+
+The predictions take into account :
+
+* focus boost from haste,
+* focus gains from Viper Venom and Rapid Recuperation,
+* Most talents : Fervor, Dire Beast, A Murder of Crows, Glaive Toss, Power Shot (but not Barrage).
+* Pet spells : Rabid and Ancient Hysteria.
+
+**This is still pretty much experimental. Don't complain if your DPS drops using this addon !**
+
+Use /adifocusbar (or /adf) to open the option panel.
