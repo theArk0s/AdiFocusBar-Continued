@@ -2,16 +2,16 @@
 ## X-Curse-Packaged-Version: 2.0.0
 ## X-Curse-Project-Name: AdiFocusBar-Continued
 ## X-Curse-Project-ID: adifocusbar-continued
-## X-Curse-Repository-ID: wow/adifocusbar/mainline
+## X-Curse-Repository-ID: wow/adifocusbar-continued/mainline
 
 ## Title: AdiFocusBar-Continued
 ## Notes: Smart focus bar for hunters
-## Author: Adirelle
+## Author: Adirelle, theArk0s
 ## Version: 2.0.0
 ## X-Date: 2015-1-26T12:35:44Z
 ## X-Category: Hunter
 ## X-License: All rights reserved
-## X-eMail: adirelle@gmail.com
+## X-eMail: adirelle@gmail.com, theArk0s@gmail.com
 ## SavedVariables: AdiFocusBarDB-Continued
 
 ## OptionalDeps: Ace3, LibMovable-1.0, LibSharedMedia-3.0, SharedMedia, AceGUI-3.0-SharedMediaWidgets, AdiDebug

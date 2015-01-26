@@ -2,7 +2,7 @@
 AdiFocusBar - Smart focus bar for hunters.
 Copyright 2010-2013 Adirelle (adirelle@gmail.com)
 All rights reserved.
-Rejuvenated for 6.0+ by theArk0s (theark0s@gmail.com)
+Rejuvenated as AdiFocusBar-Continued for 6.0+ by theArk0s (theark0s@gmail.com)
 --]]
 
 if select(2, UnitClass("player")) ~= "HUNTER" then return end
